@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+recibe una señal de pulsos
 
 ## How to test
 
-Explain how to use your project
-
+hay que conectar 4 leds
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+pues funcionana gradualemnte
